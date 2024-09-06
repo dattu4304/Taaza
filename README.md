@@ -377,16 +377,3 @@ Create a database, tables, and columns with following details using phpmyadmin (
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
-# Don't just copy, hit the star also😊
-
-
-
-# Taaza - The website for restaurant.
-This include front end design and backend code for a restaurant based website
-
-This pack comes under Creative Commons Attribution-NonCommercial license (CC BY-NC). 
-
-~Work by Sethu Satheesh
-  
-  ©Sethu    Reach me at [Instagram](https://www.instagram.com/whxite.exe/)
-
